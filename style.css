@@ -2,6 +2,10 @@ p {
  color: rgb(0, 255, 238);   
 }
 
+p {
+    color: red;   
+   }
+
 body {
     background-color: green;
 }
